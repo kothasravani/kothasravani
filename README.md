@@ -1,12 +1,19 @@
 # 👋 Hola! I'm Sravani Reddy Kotha
 
 🎓 Graduated in Applied Computer Science @ Northwest Missouri State University  
-🔍 Actively seeking full-time roles in Software Development, Data Analytics, or AI/ML
+🔍 Actively seeking full-time roles in Software Development, Web Developer, Application Developer, Data Analytics and Visualization.
 
 ---
 
 ## 👩‍💻 About Me
 I'm a passionate developer who loves building meaningful tech — from Android/iOS apps to AI-powered chatbots. With a strong foundation in full-stack development and data analytics, I enjoy solving real-world problems with smart, scalable solutions.
+
+---
+
+## 🌐 Live Website
+
+Check out my portfolio live at:  
+🔗 [https://kothasravani.github.io/myportfolio.github.io/](https://kothasravani.github.io/myportfolio.github.io/)
 
 ---
 
